@@ -1,0 +1,13 @@
+.container {
+    font-size: 0; /* Remove white space between inline-block elements */
+  }
+  
+  .grid {
+    display: inline-block;
+    width: 50px; /* Adjust the width and height as needed */
+    height: 50px;
+    border: 1px solid black;
+    margin: 5px; /* Adjust the margin as needed */
+    text-align: center;
+  }
+  
